@@ -113,13 +113,17 @@ plt.show()
 ```
 
 ## OUTPUT
+### Model
+![e1](https://github.com/Navyavenkat/rnn-stock-price-prediction/assets/94165327/793eb968-e682-4890-b8e8-4b5adfec11f4)
 
 ### True Stock Price, Predicted Stock Price vs time
-![image](https://github.com/pavizhi/rnn-stock-price-prediction/assets/95067176/f1c4f031-024c-431a-8c27-718002e1e001)
+
+![e](https://github.com/Navyavenkat/rnn-stock-price-prediction/assets/94165327/e4354d20-b45c-47bb-b300-d95c8501bc38)
 
 
 ### Mean Square Error
-![image](https://github.com/pavizhi/rnn-stock-price-prediction/assets/95067176/bce6b622-b6ce-43ab-91c3-84ac30d72d77)
+
+![e2](https://github.com/Navyavenkat/rnn-stock-price-prediction/assets/94165327/4e17eadb-db40-4a23-abd8-557cfdb2f2a4)
 
 
 ## RESULT
